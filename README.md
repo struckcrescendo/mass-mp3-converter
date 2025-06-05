@@ -1,7 +1,7 @@
 # mass-mp3-converter
-Convert FLAC, WAV, or OGG files to mp3!
+A very simple python script that turns any format into a MP3 using FFMPEG
 
-INSTALLATION
+# **INSTALLATION**
 
 ## MacOS and Linux
 
