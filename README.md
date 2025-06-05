@@ -1,6 +1,11 @@
 # mass-mp3-converter
 A very simple python script that turns any format into a MP3 using FFMPEG
 
+# ***WARNING***
+This has ***NOT*** been tested on Linux and Windows only on MacOS Sonoma, though it will most likely work either way if you follow installation ***correctly***
+If theres a problem with installation guide, then email me at ace@struckcrescendo.band
+I will try and fix it in a reasonable time (you will be the first to have it), and if you have any question you can email me.
+
 # **INSTALLATION**
 
 ## MacOS and Linux
